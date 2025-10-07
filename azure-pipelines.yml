@@ -6,8 +6,8 @@
 trigger:
 - main
 
-pool:
-  vmImage: lkjh
+pool: lkjh
+  
 
 steps:
 - task: Maven@3
